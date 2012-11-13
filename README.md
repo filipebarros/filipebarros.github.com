@@ -2,6 +2,7 @@
 ## Information
 </br>
 This is my personal webpage
+</br>
 Website designed and coded by Filipe Barros.
 </br>
 </br>
