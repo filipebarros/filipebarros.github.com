@@ -44,11 +44,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .top-bar ul > li:not(.name):hover,
-.top-bar ul > li:not(.name).active { background: none; }
+.top-bar ul > li:not(.name).active {
+    background: none;
+    color: #ffffff;
+}
 
 .top-bar ul > li:not(.name) a:hover {
 	border-bottom: 7px solid #76a1cf;
-    background-color: none;
+    background: none;
     
 	-webkit-transition: border-bottom .25s ease-in;
 	-moz-transition: border-bottom .25s ease-in;
