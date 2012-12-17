@@ -43,10 +43,10 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom-color: #6390bf;
 }
 
-.top-bar ul >li
-
 .top-bar ul > li:not(.name) a:hover {
 	border-bottom: 7px solid #76a1cf;
+    background-color: none;
+    
 	-webkit-transition: border-bottom .25s ease-in;
 	-moz-transition: border-bottom .25s ease-in;
 	-o-transition: border-bottom .25s ease-in;
@@ -56,6 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .top-bar ul > li:not(.name) .unselected:hover {
 	border-bottom: 7px solid #5b6066;
+    background-color: none;
 	
 	-webkit-transition: border-bottom .25s ease-in;
 	-moz-transition: border-bottom .25s ease-in;
