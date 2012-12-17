@@ -44,9 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .top-bar ul > li:not(.name):hover,
-.top-bar ul > li:not(.name).active {
-    background-color: none;
-}
+.top-bar ul > li:not(.name).active { background: none; }
 
 .top-bar ul > li:not(.name) a:hover {
 	border-bottom: 7px solid #76a1cf;
