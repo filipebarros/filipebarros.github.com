@@ -277,24 +277,6 @@ footer p {
     font-weight: bold;
 }
 
-.cf:before,
-.cf:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
-}
-
-.cf:after {
-    clear: both;
-}
-
-/**
- * For IE 6/7 only
- * Include this rule to trigger hasLayout and contain floats.
- */
-.cf {
-    *zoom: 1;
-}
-
 @keyframes crossfade {
     0% {
         opacity:1;
@@ -329,6 +311,10 @@ footer p {
     100% {
         opacity:1;
     }
+}
+
+#featured {
+    height:417px;
 }
 
 #featured img {
