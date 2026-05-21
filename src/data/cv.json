@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Filipe Barros",
+    "label": "Software Engineer · Tech Lead",
+    "summary": "Full-stack software engineer and tech lead with over a decade of experience across fintech, e-learning and digital media. Equally comfortable on frontend and backend, working across TypeScript, Scala, Ruby and Elixir. Proven record of leading high-impact, data-driven projects, integrating machine learning to sharpen personalisation, and mentoring fellow engineers. Motivated by elegant solutions and by leaving every codebase better than I found it.",
+    "location": "London, United Kingdom",
+    "email": "afbarros@me.com",
+    "phone": "+44 7859 759774",
+    "website": "https://filipebarros.com",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "filipebarros",
+        "url": "https://github.com/filipebarros"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "afmbarros",
+        "url": "https://www.linkedin.com/in/afmbarros/"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["TypeScript", "Ruby", "JavaScript", "Scala", "Elixir", "Java", "Rust"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": ["React", "Next.js", "Ruby on Rails", "Phoenix", "Grape", "RSpec", "GraphQL", "Thrift"]
+    },
+    {
+      "category": "Cloud & Infrastructure",
+      "items": ["AWS (SNS, SQS, Lambda)", "Google Cloud Platform", "Docker", "GitHub Actions", "CircleCI"]
+    },
+    {
+      "category": "Data & Storage",
+      "items": ["Cloud Spanner", "MySQL", "Couchbase"]
+    },
+    {
+      "category": "Practices",
+      "items": ["Full-stack development", "Microservices", "Technical leadership & mentoring"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Credit Karma",
+      "role": "Software Engineer → Senior Software Engineer",
+      "start": "Dec 2020",
+      "end": "Present",
+      "summary": "Personal-finance platform that helps members understand and improve their credit score, and surfaces personalised financial offers.",
+      "highlights": [
+        "Currently leading the UK team on the frontend implementation of Credit Karma Plus, a new (US-only) subscription product, while also working on the backend, implementing the GraphQL API and Thrift service definitions, plus the TypeScript that returns the data, backed by Cloud Spanner on Google Cloud Platform.",
+        "Led the design and delivery of the International team's (UK & Canada) most impactful project in two years: a personalised-content feature that uses members' credit-report data and behavioural signals to determine content eligibility.",
+        "Integrated machine-learning recommendation models into the feature to improve content relevance against key business metrics, then led its successful rollout to the Canadian market.",
+        "Worked full-stack across internal services in TypeScript and Scala, contributing to both frontend and backend.",
+        "Supported colleagues' initiatives both as a hands-on contributor and by mentoring them in project leadership."
+      ]
+    },
+    {
+      "company": "Fuse Universal",
+      "role": "Tech Lead / Senior Developer",
+      "start": "Sep 2019",
+      "end": "Dec 2020",
+      "summary": "Learning platform that helps companies deliver targeted training to their employees.",
+      "highlights": [
+        "Led two teams (events and the core learning platform), designing features that let clients integrate their learning status with third-party systems.",
+        "Built event-driven integrations using AWS SNS, SQS and Lambda, with automated deployments via GitHub Actions.",
+        "Reworked the release process, cutting manual effort by automating release creation and streamlining deployments."
+      ]
+    },
+    {
+      "company": "Funding Circle",
+      "role": "Senior Software Engineer",
+      "start": "Nov 2016",
+      "end": "Sep 2019",
+      "summary": "Peer-to-peer lending platform connecting small and medium businesses with investors.",
+      "highlights": [
+        "Built and maintained internal business systems that streamlined day-to-day processes for other teams.",
+        "Developed new microservices and improved existing ones to support evolving business needs."
+      ]
+    },
+    {
+      "company": "The Innovation Enterprise",
+      "role": "Web Developer",
+      "start": "Sep 2015",
+      "end": "Nov 2016",
+      "summary": "Business-media company specialising in summit organisation and digital media services.",
+      "highlights": [
+        "Developed new features and products while supporting the company's full suite of applications.",
+        "Worked with Ruby on Rails and MySQL deployed on AWS, adopting React on the frontend."
+      ]
+    },
+    {
+      "company": "Nektan",
+      "role": "Software Engineer",
+      "start": "Mar 2014",
+      "end": "Aug 2015",
+      "summary": "Developer of casino games for its own brands and white-label partners.",
+      "highlights": [
+        "Contributed to technical decision-making within the engineering team.",
+        "Built features using Java, Spring, Hibernate, MySQL, Couchbase and AngularJS."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Porto · Faculty of Engineering",
+      "qualification": "MSc in Informatics and Computing Engineering",
+      "detail": "Final grade: 14/20",
+      "start": "2007",
+      "end": "2012"
+    },
+    {
+      "institution": "University of Zagreb · Faculty of Electrical Engineering and Computing",
+      "qualification": "Erasmus exchange year",
+      "detail": "",
+      "start": "2011",
+      "end": "2012"
+    }
+  ],
+  "projects": []
+}
