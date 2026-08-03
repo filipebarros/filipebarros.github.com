@@ -119,5 +119,24 @@
       "end": "2012"
     }
   ],
-  "projects": []
+  "projects": [
+    {
+      "name": "Dotfiler",
+      "description": "A safe, powerful dotfiles manager written in Elixir. Symlinks your dotfiles with automatic backups, dry-run preview, full restore, gitignore-style filtering and optional Homebrew integration — backed by 120+ tests, Dialyzer type checking and CI.",
+      "url": "https://github.com/filipebarros/dotfiler",
+      "tags": ["Elixir", "CLI", "Open Source"]
+    },
+    {
+      "name": "Project Indicator",
+      "description": "A blazingly fast Rust CLI that detects a project's language and framework — 23+ languages and 37+ frameworks — for shell-prompt integration. Ships with persistent caching, TOML configuration, and Bash/Zsh/Fish integration scripts, with typical detection in 3-5ms.",
+      "url": "https://github.com/filipebarros/project-indicator",
+      "tags": ["Rust", "CLI", "Open Source"]
+    },
+    {
+      "name": "alfredfm",
+      "description": "A Last.fm workflow for Alfred on macOS, written in Ruby — control playback, love tracks and look up music without leaving the Alfred bar. My most-starred open-source project (16★).",
+      "url": "https://github.com/filipebarros/alfredfm",
+      "tags": ["Ruby", "Alfred Workflow", "macOS"]
+    }
+  ]
 }
